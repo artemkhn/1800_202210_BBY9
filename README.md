@@ -6,6 +6,7 @@
 
 ## General Info
 This browser based web application to ...
+* Hi my name is Artem. I'm excited about this project because we will get to create a funtioning website.
 	
 ## Technologies
 Technologies used for this project:
