@@ -6,8 +6,8 @@
 
 ## General Info
 This browser based web application to ...
-* Hi my name is Artem. I'm excited about this project because we will get to create a funtioning website.
-*Hi my name is Randall. I'm excited about this project becuase i think my team is great and i like working with them.
+* Hi my name is Artem. I'm excited about this project because we will get to create a funtioning website :).
+
 	
 ## Technologies
 Technologies used for this project:
