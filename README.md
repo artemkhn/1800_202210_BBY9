@@ -7,7 +7,7 @@
 ## General Info
 This browser based web application to ...
 * Hi my name is Artem. I'm excited about this project because we will get to create a funtioning website.
-* Hi my name is Aryan and I am excited about this project becuase it will solve a lot of problems.
+* Hi my name is Aryan. and I am excited about this project becuase it will solve a lot of problems.
 ## Technologies
 Technologies used for this project:
 * HTML, CSS
